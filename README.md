@@ -23,6 +23,15 @@ QA professional with 15+ years of experience in software quality, including QA l
 
 ## 🚀 Portfolio
 
-I'm building a public QA Automation portfolio demonstrating real-world automation practices, including UI testing, API testing, CI/CD, authentication, and maintainable test architecture.
+### [Playwright QA Automation](https://github.com/Mike84qa/playwright-qa-automation)
 
-Public projects will be added here as they become available.
+Public QA Automation portfolio project demonstrating UI and REST API testing with **Playwright** and **TypeScript**.
+
+- 6 end-to-end UI scenarios
+- 18 cross-browser UI test executions
+- 5 REST API tests
+- Page Object Model (POM)
+- Chromium, Firefox, and WebKit coverage
+- Dedicated API test project
+- GitHub Actions CI
+- 23 automated test executions
